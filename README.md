@@ -1,8 +1,8 @@
-# Awesome System Design Resources
+### Awesome System Design Resources
 This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
 
 
-## System Design Fundamentals
+### System Design Fundamentals
 
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
