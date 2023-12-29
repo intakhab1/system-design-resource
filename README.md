@@ -1,6 +1,7 @@
 # Awesome System Design Resources
 This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
 
+
 ## System Design Fundamentals
 
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
@@ -104,5 +105,6 @@ This repository contains System Design resources which are useful to learn conce
 - [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
-#   s y s t e m - d e s i g n - r e s o u r c e  
+#   s y s t e m - d e s i g n - r e s o u r c e 
+ 
  
